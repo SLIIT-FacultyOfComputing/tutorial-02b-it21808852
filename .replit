@@ -1,2 +1,5 @@
 language = "c++"
 run = "chmod +x run.sh; chmod +x test; ./run.sh"
+
+[nix]
+channel = "stable-22_05"
